@@ -13,6 +13,7 @@ Professional venture studio website showcasing HBF Direct Limited's comprehensiv
 ## Live URLs
 
 - **Development Server**: https://3000-im382s30ni4ty686wwv47-ad490db5.sandbox.novita.ai
+- **GitHub Repository**: https://github.com/enorvisionltd/HBF-Direct-Website
 - **Production** (After deployment): https://webapp.pages.dev
 
 ## Key Features
@@ -262,15 +263,17 @@ npm run deploy:prod
 
 ## Git Repository
 
-```bash
-# Initialize repository
-git init
-git add .
-git commit -m "Initial commit"
+**Repository URL**: https://github.com/enorvisionltd/HBF-Direct-Website
 
-# Add remote and push (after GitHub setup)
-git remote add origin https://github.com/username/hbf-direct-webapp.git
-git push -u origin main
+```bash
+# Repository is already initialized and pushed
+# To pull latest changes:
+git pull origin main
+
+# To push new changes:
+git add .
+git commit -m "Your commit message"
+git push origin main
 ```
 
 ## Contact & Support
